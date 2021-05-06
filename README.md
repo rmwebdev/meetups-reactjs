@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rmwebdev/pokedex-v2/master/src/assets/pokedex2.png" width="400" height="300" alt="site-logo"/>
+  <img src="https://raw.githubusercontent.com/rmwebdev/meetups-reactjs/main/public/images/home.JPG" width="400" height="300" alt="site-logo"/>
 </div>
 <h1 align="center">
   React JS Meetups
