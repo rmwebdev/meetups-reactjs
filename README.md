@@ -6,7 +6,7 @@
   React JS Meetups
 </h1>
 
-[See the Demo](https://kalaranapokedexv2.netlify.app/). More cleaned and user friendly code are applied.
+[See the Demo](https://inspiring-goodall-f064a5.netlify.app/).
 
 ## 📐 Project setup
 ```
